@@ -1,7 +1,7 @@
 # Hi, I'm Matteo 👋
 
 **Data Analyst & Process Automation**  
-Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI Italy.
+Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ---
 
