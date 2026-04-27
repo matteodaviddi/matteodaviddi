@@ -7,10 +7,10 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ## 🤖 AI Automation Projects
 
-- **[Automated Sales Report](link-repo)** — Make + OpenAI GPT-4 + Google Sheets + Gmail  
+- **[Automated Reporting Workflow](https://github.com/matteodaviddi/automated-reporting-workflow))** — Make + OpenAI GPT-4 + Google Sheets + Gmail  
   Automated daily HTML email reports with dynamic charts and AI-generated insights.
 
-- **[AGV Anomaly Detection & Alert](link-repo)** — Make + OpenAI GPT-4 + Google Sheets  
+- **[AGV Anomaly Detection & Alert](https://github.com/matteodaviddi/agv-anomaly-detection))** — Make + OpenAI GPT-4 + Google Sheets  
   AI-powered monitoring system for industrial AGV fleets with real-time email alerts.
 
 ---
