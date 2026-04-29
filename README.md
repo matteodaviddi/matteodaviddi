@@ -17,9 +17,7 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ## 📊 Data Analysis Projects
 
-- ## 📊 Data Analysis Projects
-
-- **[Warehouse Operations Dashboard](https://github.com/matteodaviddi/warehouse-operations-report)** — PowerBI · DAX · Supply Chain Analytics
+- **[Warehouse Operations Dashboard](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics
   Interactive 7-page dashboard analyzing warehouse KPIs, inventory management and logistics performance.  
 - **Data Processing & Statistical Insights** — Excel  
 
