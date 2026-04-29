@@ -19,7 +19,7 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 - **[Warehouse Operations Dashboard](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics
   Interactive 7-page dashboard analyzing warehouse KPIs, inventory management and logistics performance.  
-- - **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
+- **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
   Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.  
 
 ---
