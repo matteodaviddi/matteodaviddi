@@ -20,7 +20,9 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 - **[Warehouse Operations Performance](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics        
   Interactive 7-page report analyzing warehouse KPIs, inventory management and logistics performance.  
 - **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
-  Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.  
+  Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.
+- **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint
+  Market research for a vehicle sanitization startup — qualitative interviews, survey analysis (n=47), factor analysis, cluster analysis and TAM/SAM market sizing.
 
 ---
 
