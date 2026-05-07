@@ -29,7 +29,7 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 ## 🛠️ Tech Stack
 
 `Python` `Excel` `Tableau` `PowerBI` `Oracle Analytics`  
-`Make` `OpenAI API` `Google Sheets` `Prompt Engineering`
+`SPSS` `Make` `OpenAI API` `Google Sheets` `Prompt Engineering`
 
 ---
 
