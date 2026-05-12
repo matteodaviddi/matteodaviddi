@@ -23,6 +23,8 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
   Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.
 - **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint
   Market research for a vehicle sanitization startup — qualitative interviews, survey analysis (n=47), factor analysis, cluster analysis and TAM/SAM market sizing.
+- **[Data Processing & Statistical Insights](https://github.com/matteodaviddi/data-processing-statistical-insights)** — Excel · Statistics · Confidence Intervals · Correlation · Linear Regression
+  Statistical analysis on a simulated population of 250 individuals — descriptive statistics, confidence interval estimation, correlation analysis and linear regression.
 
 ---
 
