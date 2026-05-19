@@ -18,7 +18,9 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 ## 📊 Data Analysis Projects
 
 - **[Warehouse Operations Performance](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics        
-  Interactive 7-page report analyzing warehouse KPIs, inventory management and logistics performance.  
+  Interactive 7-page report analyzing warehouse KPIs, inventory management and logistics performance.
+- **[TechMarket S.p.A. Sales Analysis](https://github.com/matteodaviddi/techmarket-sales-analysis)** — PowerBI · DAX · Geographic Mapping · Retail Analytics
+  Interactive 6-page sales dashboard analyzing €70.43M annual revenue across 32 stores, 14 cities and 12 products with returns analysis.
 - **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
   Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.
 - **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint
