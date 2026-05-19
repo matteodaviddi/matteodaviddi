@@ -21,6 +21,8 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
   Interactive 7-page report analyzing warehouse KPIs, inventory management and logistics performance.
 - **[TechMarket S.p.A. Sales Analysis](https://github.com/matteodaviddi/techmarket-sales-analysis)** — PowerBI · DAX · Geographic Mapping · Retail Analytics
   Interactive 6-page sales dashboard analyzing €70.43M annual revenue across 32 stores, 14 cities and 12 products with returns analysis.
+- **[Superstore Sales Analysis](https://github.com/matteodaviddi/superstore-sales-analysis-tableau)** — Tableau · Profit Mapping · Product Performance · Geographic Analysis
+  Interactive Tableau workbook with 11 worksheets and 2 dashboards analyzing sales trends, geographic profit distribution, product performance and shipping mode analysis.
 - **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
   Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.
 - **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint
