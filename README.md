@@ -7,10 +7,10 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ## 🤖 AI Automation Projects
 
-- **[Automated Reporting Workflow](https://github.com/matteodaviddi/automated-reporting-workflow)** — Make + OpenAI GPT-4 + Google Sheets + Gmail  
+- **[Automated Reporting Workflow](https://github.com/matteodaviddi/automated-reporting-workflow)** — Make + OpenAI GPT-4 + Google Sheets + Gmail  │  
   Automated daily HTML email reports with dynamic charts and AI-generated insights.
 
-- **[AGV Anomaly Detection & Alert](https://github.com/matteodaviddi/agv-anomaly-detection-alert)** — Make + OpenAI GPT-4 + Google Sheets + Gmail           
+- **[AGV Anomaly Detection & Alert](https://github.com/matteodaviddi/agv-anomaly-detection-alert)** — Make + OpenAI GPT-4 + Google Sheets + Gmail  │        
   AI-powered monitoring system for industrial AGV fleets with real-time email alerts.
 
 ---
@@ -35,7 +35,7 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 - **[Data Processing & Statistical Insights](https://github.com/matteodaviddi/data-processing-statistical-insights)** — Excel · Statistics · Confidence Intervals · Correlation · Linear Regression  │  
   Statistical analysis on a simulated population of 250 individuals — descriptive statistics, confidence interval estimation, correlation analysis and linear regression.
   
-- **[Air Calamities Analysis](https://github.com/matteodaviddi/air-calamities-analysis)** - Google Colab · Python 3 · Excel · NumPy · Pandas · Matplotlib  │     Exploratory analysis of aviations accidents 1919-2023.
+- **[Air Calamities Analysis](https://github.com/matteodaviddi/air-calamities-analysis)** - Google Colab · Python 3 · Excel · NumPy · Pandas · Matplotlib  │                           Exploratory analysis of aviations accidents 1919-2023.
 
 ---
 
