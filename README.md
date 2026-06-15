@@ -29,6 +29,7 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
   Market research for a vehicle sanitization startup — qualitative interviews, survey analysis (n=47), factor analysis, cluster analysis and TAM/SAM market sizing.
 - **[Data Processing & Statistical Insights](https://github.com/matteodaviddi/data-processing-statistical-insights)** — Excel · Statistics · Confidence Intervals · Correlation · Linear Regression
   Statistical analysis on a simulated population of 250 individuals — descriptive statistics, confidence interval estimation, correlation analysis and linear regression.
+- **[Air Calamities Analysis](https://github.com/matteodaviddi/air-calamities-analysis)** - Google Colab · Python 3 · Excel · NumPy · Pandas · Matplotlib     Exploratory analysis of aviations accidents 1919-2023.
 
 ---
 
