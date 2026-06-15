@@ -17,25 +17,25 @@ Currently completing a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ## 📊 Data Analysis Projects
 
-- **[Warehouse Operations Performance](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics        
+- **[Warehouse Operations Performance](https://github.com/matteodaviddi/warehouse-operations-performance)** — PowerBI · DAX · Supply Chain Analytics  │        
   Interactive 7-page report analyzing warehouse KPIs, inventory management and logistics performance.
   
-- **[TechMarket S.p.A. Sales Analysis](https://github.com/matteodaviddi/techmarket-sales-analysis)** — PowerBI · DAX · Geographic Mapping · Retail Analytics
+- **[TechMarket S.p.A. Sales Analysis](https://github.com/matteodaviddi/techmarket-sales-analysis)** — PowerBI · DAX · Geographic Mapping · Retail Analytics  │  
   Interactive 6-page sales dashboard analyzing €70.43M annual revenue across 32 stores, 14 cities and 12 products with returns analysis.
   
-- **[Superstore Sales Analysis](https://github.com/matteodaviddi/superstore-sales-analysis-tableau)** — Tableau · Profit Mapping · Product Performance · Geographic Analysis
+- **[Superstore Sales Analysis](https://github.com/matteodaviddi/superstore-sales-analysis-tableau)** — Tableau · Profit Mapping · Product Performance · Geographic Analysis  │  
   Interactive Tableau workbook with 11 worksheets and 2 dashboards analyzing sales trends, geographic profit distribution, product performance and shipping mode analysis.
   
-- **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  
+- **[Global Superstore Sales Analysis](https://github.com/matteodaviddi/global-superstore-sales-analysis)** — Excel · Pivot Tables · KPI Dashboard  │   
   Sales performance analysis of 51K+ transactions across global markets (2011–2014). Dashboard with revenue trends, customer profitability and seasonal insights.
   
-- **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint
+- **[Marketing Research — WeCare Solutions](https://github.com/matteodaviddi/marketing-research)** — Google Forms · Excel · SPSS · PowerPoint  │  
   Market research for a vehicle sanitization startup — qualitative interviews, survey analysis (n=47), factor analysis, cluster analysis and TAM/SAM market sizing.
   
-- **[Data Processing & Statistical Insights](https://github.com/matteodaviddi/data-processing-statistical-insights)** — Excel · Statistics · Confidence Intervals · Correlation · Linear Regression
+- **[Data Processing & Statistical Insights](https://github.com/matteodaviddi/data-processing-statistical-insights)** — Excel · Statistics · Confidence Intervals · Correlation · Linear Regression  │  
   Statistical analysis on a simulated population of 250 individuals — descriptive statistics, confidence interval estimation, correlation analysis and linear regression.
   
-- **[Air Calamities Analysis](https://github.com/matteodaviddi/air-calamities-analysis)** - Google Colab · Python 3 · Excel · NumPy · Pandas · Matplotlib     Exploratory analysis of aviations accidents 1919-2023.
+- **[Air Calamities Analysis](https://github.com/matteodaviddi/air-calamities-analysis)** - Google Colab · Python 3 · Excel · NumPy · Pandas · Matplotlib  │     Exploratory analysis of aviations accidents 1919-2023.
 
 ---
 
