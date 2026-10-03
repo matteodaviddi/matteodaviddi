@@ -1,6 +1,5 @@
 # Hi, I'm Matteo 👋
-
-**Data Analyst**  
+ 
 Currently working as Financial Controller in ITALCER Group and recently completed a Master in Data Analytics (EQF 6) at ProfessionAI.
 
 ---
